@@ -1,0 +1,33 @@
+body{
+	background-image: url(img/fondo.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed; 
+}
+#cont1{
+	float: right;
+	font-size: 250px;
+}
+
+input {
+	width: 14%;
+	padding: 10px;
+	border-bottom: none;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	
+
+}
+
+button {
+
+	font-size: 14px;
+	border-color: black;
+	padding: 10px;
+	width: 170px;
+	margin: 10px;
+	border-width: 2px;
+
+}
